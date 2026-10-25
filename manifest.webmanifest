@@ -1,0 +1,15 @@
+{
+  "name": "我的存錢小管家",
+  "short_name": "存錢小管家",
+  "description": "本機優先的私人記帳與存款追蹤",
+  "lang": "zh-Hant",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf7ff",
+  "theme_color": "#1764ad",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
